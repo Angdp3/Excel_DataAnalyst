@@ -28,6 +28,7 @@ Proyek ini bertujuan untuk menganalisis jumlah penghasilan dan rata-rata berdasa
 - `UNIQUE` – Menampilkan daftar unik
 
 ### ✅ 4. Dashboard & Visualization
+-![s](https://github.com/user-attachments/assets/2e9ae35c-6801-4b52-82e4-dcde778e823c)
 - **Bar chart**: untuk menampilkan jumlah revenue per kategori dan lokasi
 - ![Bar chart](https://github.com/user-attachments/assets/ac5aa055-eef0-4837-bb12-bd84ac9c57f6)
 - ![Capture](https://github.com/user-attachments/assets/71ddc426-70b1-4fc9-b2c7-0501f1da7273)
